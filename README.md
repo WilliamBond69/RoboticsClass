@@ -1,1 +1,5 @@
 # RoboticsClass
+
+William Bond
+
+## diagram 
